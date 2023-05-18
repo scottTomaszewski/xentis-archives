@@ -1,11 +1,5 @@
-# Obsidian Notes
+# The Xentis Archives
 
-Publish your public notes with MkDocs
+Public documents for Xentis' players.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+**NOTE** Just because certain documents and pages are listed here does not necessarily mean they are for use in the campaign you are playing in.  Ask Xentis before assuming :)

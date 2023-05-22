@@ -4,5 +4,6 @@
 
 - [[Potion Consumption]]
 - [[Resurrection]]
+- [[Ammunition Recovery]] 
 
 For other homebrew rules, please ask.

@@ -18,9 +18,11 @@ AKA: `average = (((dice-size/2) + 0.5) * dice-count) + modifier`
 
 For example, in the roll `2d8+5`
 
-- `dice-size` is `8`
-- `dice-count` is `2`
-- `modifier` is 5
+```
+dice-size = 8
+dice-count = 2
+modifier = 5
+```
 
 So the average is calculated with:
 
@@ -28,7 +30,7 @@ So the average is calculated with:
 2. `4.5 * 2 = 9`
 3. `9 + 5 = 14`
 
-So the average for `2d8+5` is `14`
+The average of `2d8+5` is `14`
 
 In a more complicated example:
 
